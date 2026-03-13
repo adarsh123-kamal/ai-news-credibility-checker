@@ -192,23 +192,25 @@ streamlit run app/app.py
 
 ---
 
-📷 Application Screenshots
-Homepage
-![alt text](image.png)
+## 📷 Application Screenshots
 
-News Credibility Analysis
-![alt text](image-1.png)
+### Homepage
+![Homepage](Screenshots/image.png)
 
-Credibility Score Visualization
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+### News Credibility Analysis
+![Analysis](Screenshots/image-1.png)
 
-Trending News Dashboard
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
+### Credibility Score Visualization
+![Score](Screenshots/image-2.png)
+![Score](Screenshots/image-3.png)
+![Score](Screenshots/image-4.png)
+
+### Trending News Dashboard
+![Trending](Screenshots/image-5.png)
+![Trending](Screenshots/image-6.png)
+![Trending](Screenshots/image-7.png)
+![Trending](Screenshots/image-8.png)
+
 
 ---
 
